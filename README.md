@@ -8,6 +8,14 @@ Desenvolvedor Back-End Júnior
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
 </div> 
 
+<!-- <div style="display: inline">
+  <p>Python</p>
+  <p>Django</p>
+  <p>Pandas</p>
+  <p>Selenium</p>
+  <p>Flask</p>
+</div>
+ -->
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
