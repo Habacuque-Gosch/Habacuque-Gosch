@@ -25,4 +25,6 @@ Desenvolvedor Back-End Júnior
 <!-- # 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAntonioKuhnen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
  -->
-
+ <!-- # link para imaggens de github
+https://github.com/iuricode/readme-template/blob/main/badges/badges.md
+ -->
