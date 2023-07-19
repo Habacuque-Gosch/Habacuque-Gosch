@@ -1,5 +1,5 @@
 ### Habacuque Gosch :)
-Desenvolvedor Back-End Júnior
+Desenvolvedor Back-End
 
 - 👨 **Estudante** de programação back-end
 - 💻 Apaixonado por **tecnologia**
