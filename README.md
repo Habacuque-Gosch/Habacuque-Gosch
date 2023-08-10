@@ -18,6 +18,7 @@ Desenvolvedor Back-End
 ![Selenium](https://img.shields.io/badge/Selenium-%22002E20.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white")
+![OpenCv](https://img.shields.io/badge/OpenCv-E10F26?style=for-the-badge&logo=opencv&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
