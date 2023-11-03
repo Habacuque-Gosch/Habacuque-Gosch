@@ -1,7 +1,6 @@
 ### Habacuque Gosch :)
-Desenvolvedor Back-End
 
-- 👨 **Estudante** de programação back-end
+- 👨 Desenvolvedor Back-End
 - 💻 Apaixonado por **tecnologia**
 - ☕ Atualmente mais focado em:
 <div style="display: inline">
