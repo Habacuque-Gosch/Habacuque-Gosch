@@ -7,6 +7,7 @@ Desenvolvedor Back-End
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img widht='50' height='50' src="https://www.svgrepo.com/show/452088/php.svg" />&nbsp;&nbsp;
 </div> 
 
 ## Redes Sociais:
