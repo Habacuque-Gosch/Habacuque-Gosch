@@ -17,6 +17,7 @@ Desenvolvedor Back-End
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%22002E20.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white")
@@ -34,5 +35,5 @@ Desenvolvedor Back-End
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAntonioKuhnen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
  -->
  <!-- # link para imaggens de github
-https://github.com/iuricode/readme-template/blob/main/badges/badges.md
+https://github.com/iuricode/readme-template/tree/main/badges-shields
  -->
