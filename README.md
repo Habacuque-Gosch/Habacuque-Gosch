@@ -1,5 +1,4 @@
 ### Habacuque Gosch :)
-
 - 👨 Desenvolvedor Back-End
 - 💻 Apaixonado por **tecnologia**
 - ☕ Atualmente mais focado em:
@@ -8,6 +7,10 @@
   &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='50' height='50' src="https://www.svgrepo.com/show/452088/php.svg" />&nbsp;&nbsp;
 </div> 
+<br>
+
+<!--![Habacuque GitHub stats](https://github-readme-stats.vercel.app/api?username=Habacuque-Gosch&show_icons=true&theme=dark)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&hide_progress=true)
 
 ## Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gosch_tlgd) 
