@@ -1,13 +1,13 @@
 ### Habacuque Gosch :)
 - 👨 Desenvolvedor Back-End
 - 💻 Apaixonado por **tecnologia**
-- ☕ Atualmente mais focado em:
+<!--- ☕ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='50' height='50' src="https://www.svgrepo.com/show/452088/php.svg" />&nbsp;&nbsp;
 </div> 
-<br>
+<br> -->
 
 <!--![Habacuque GitHub stats](https://github-readme-stats.vercel.app/api?username=Habacuque-Gosch&show_icons=true&theme=dark)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&hide_progress=true)
