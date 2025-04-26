@@ -1,5 +1,5 @@
 ### Habacuque Gosch :)
-- 👨 Desenvolvedor Back-End
+- 👨 Desenvolvedor Back end
 - 💻 Apaixonado por **tecnologia**
 <!--- ☕ Atualmente mais focado em:
 <div style="display: inline">
