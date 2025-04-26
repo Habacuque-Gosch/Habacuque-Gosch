@@ -10,8 +10,6 @@
 <br> -->
 
 <!--![Habacuque GitHub stats](https://github-readme-stats.vercel.app/api?username=Habacuque-Gosch&show_icons=true&theme=dark)  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&hide_progress=true)
-
 ## Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gosch_tlgd) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/)
@@ -50,13 +48,11 @@
 ![DEV-TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![HASHNODE](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
-
-<!--![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 
  # 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAntonioKuhnen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
- -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
  <!-- # link para imaggens de github
 https://github.com/iuricode/readme-template/tree/main/badges-shields
  -->
